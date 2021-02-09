@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Educativelogs
+- 🔭 I’m currently working on a twitter bot
 - 🌱 I’m currently learning Python OOPs
 - 👯 I’m looking to collaborate on my tech community
 - 🤔 I’m looking for help with OOPs
