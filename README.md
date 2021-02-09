@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a twitter bot
 - 🌱 I’m currently learning Python OOPs
-- 👯 I’m looking to collaborate on my tech community
+- 👯 I’m looking to collaborate onmy tech community
 - 🤔 I’m looking for help with OOPs
 - 💬 Ask me about Programming Concepts, how to work with Google products? and frontend development
 - 📫 How to reach me: <a href="https://twitter.com/pulkits25464056" >Twitter @PulkitS25464056</a>
