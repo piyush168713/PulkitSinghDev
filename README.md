@@ -52,7 +52,7 @@
   </tr>
 </table>
 <h1></h1>
-<h4 align="center">Testimonials</h4>
+<h2 align="center">Testimonials</h2>
 <h1 align="center">❝</h1>
 
 <table align="center">
