@@ -29,7 +29,41 @@
 - ⚡ Fun fact: I listen songs while programming
 - check out my professional portfolio here:
   - https://bit.ly/pulkit-singh
-  
-  ### Tweets:-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Submitted my proposal for Speaker at <a href="https://twitter.com/GitHubIndia?ref_src=twsrc%5Etfw">@GitHubIndia</a> satellite 2021<br>Let&#39;s Hope for the best <br>I am really excited for this event<a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> <a href="https://twitter.com/hashtag/event?src=hash&amp;ref_src=twsrc%5Etfw">#event</a> <a href="https://twitter.com/hashtag/flutter?src=hash&amp;ref_src=twsrc%5Etfw">#flutter</a> <a href="https://twitter.com/hashtag/AndroidDev?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDev</a> <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/web?src=hash&amp;ref_src=twsrc%5Etfw">#web</a> <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a> <a href="https://twitter.com/hashtag/Tensorflow?src=hash&amp;ref_src=twsrc%5Etfw">#Tensorflow</a> <a href="https://twitter.com/hashtag/VR?src=hash&amp;ref_src=twsrc%5Etfw">#VR</a> <a href="https://twitter.com/hashtag/dscwow?src=hash&amp;ref_src=twsrc%5Etfw">#dscwow</a> <a href="https://twitter.com/hashtag/gdgnd?src=hash&amp;ref_src=twsrc%5Etfw">#gdgnd</a> <a href="https://t.co/5kXxhFtQc6">pic.twitter.com/5kXxhFtQc6</a></p>&mdash; Pulkit Singh #CloudCommunityDaysIndia (@PulkitS25464056) <a href="https://twitter.com/PulkitS25464056/status/1358093199068258309?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Submitted my proposal for Speaker at <a href="https://twitter.com/GitHubIndia?ref_src=twsrc%5Etfw">@GitHubIndia</a> satellite 2021<br>Let&#39;s Hope for the best <br>I am really excited for this event<a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> <a href="https://twitter.com/hashtag/event?src=hash&amp;ref_src=twsrc%5Etfw">#event</a> <a href="https://twitter.com/hashtag/flutter?src=hash&amp;ref_src=twsrc%5Etfw">#flutter</a> <a href="https://twitter.com/hashtag/AndroidDev?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDev</a> <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/web?src=hash&amp;ref_src=twsrc%5Etfw">#web</a> <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a> <a href="https://twitter.com/hashtag/Tensorflow?src=hash&amp;ref_src=twsrc%5Etfw">#Tensorflow</a> <a href="https://twitter.com/hashtag/VR?src=hash&amp;ref_src=twsrc%5Etfw">#VR</a> <a href="https://twitter.com/hashtag/dscwow?src=hash&amp;ref_src=twsrc%5Etfw">#dscwow</a> <a href="https://twitter.com/hashtag/gdgnd?src=hash&amp;ref_src=twsrc%5Etfw">#gdgnd</a> <a href="https://t.co/5kXxhFtQc6">pic.twitter.com/5kXxhFtQc6</a></p>&mdash; Pulkit Singh #CloudCommunityDaysIndia (@PulkitS25464056) <a href="https://twitter.com/PulkitS25464056/status/1358093199068258309?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote>
+
+
+<h4 align="center"><a target="_blank" href="https://twitter.com/PulkitS25464056/status/1358093199068258309">-:Tweets:-</a></h4>
+
+<table>
+  <tr>
+    <th></th>
+    <th><a target="_blank" href="https://twitter.com/PulkitS25464056/status/1358093199068258309">Tweets</a></th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/PulkitS25464056/status/1358093199068258309">Pulkit Singh</a></td>
+    <td><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Submitted my proposal for Speaker at <a href="https://twitter.com/GitHubIndia?ref_src=twsrc%5Etfw">@GitHubIndia</a> satellite 2021<br>Let&#39;s Hope for the best <br>I am really excited for this event<a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> <a href="https://twitter.com/hashtag/event?src=hash&amp;ref_src=twsrc%5Etfw">#event</a> <a href="https://twitter.com/hashtag/flutter?src=hash&amp;ref_src=twsrc%5Etfw">#flutter</a> <a href="https://twitter.com/hashtag/AndroidDev?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDev</a> <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/web?src=hash&amp;ref_src=twsrc%5Etfw">#web</a> <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a> <a href="https://twitter.com/hashtag/Tensorflow?src=hash&amp;ref_src=twsrc%5Etfw">#Tensorflow</a> <a href="https://twitter.com/hashtag/VR?src=hash&amp;ref_src=twsrc%5Etfw">#VR</a> <a href="https://twitter.com/hashtag/dscwow?src=hash&amp;ref_src=twsrc%5Etfw">#dscwow</a> <a href="https://twitter.com/hashtag/gdgnd?src=hash&amp;ref_src=twsrc%5Etfw">#gdgnd</a> <a href="https://t.co/5kXxhFtQc6">pic.twitter.com/5kXxhFtQc6</a></p>&mdash; Pulkit Singh #CloudCommunityDaysIndia (@PulkitS25464056) <a href="https://twitter.com/PulkitS25464056/status/1358093199068258309?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://twitter.com/PulkitS25464056/status/1358093199068258309">Pulkit Singh</a></td>
+    <td><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Submitted my proposal for Speaker at <a href="https://twitter.com/GitHubIndia?ref_src=twsrc%5Etfw">@GitHubIndia</a> satellite 2021<br>Let&#39;s Hope for the best <br>I am really excited for this event<a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/community?src=hash&amp;ref_src=twsrc%5Etfw">#community</a> <a href="https://twitter.com/hashtag/event?src=hash&amp;ref_src=twsrc%5Etfw">#event</a> <a href="https://twitter.com/hashtag/flutter?src=hash&amp;ref_src=twsrc%5Etfw">#flutter</a> <a href="https://twitter.com/hashtag/AndroidDev?src=hash&amp;ref_src=twsrc%5Etfw">#AndroidDev</a> <a href="https://twitter.com/hashtag/webdev?src=hash&amp;ref_src=twsrc%5Etfw">#webdev</a> <a href="https://twitter.com/hashtag/web?src=hash&amp;ref_src=twsrc%5Etfw">#web</a> <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> <a href="https://twitter.com/hashtag/ML?src=hash&amp;ref_src=twsrc%5Etfw">#ML</a> <a href="https://twitter.com/hashtag/Tensorflow?src=hash&amp;ref_src=twsrc%5Etfw">#Tensorflow</a> <a href="https://twitter.com/hashtag/VR?src=hash&amp;ref_src=twsrc%5Etfw">#VR</a> <a href="https://twitter.com/hashtag/dscwow?src=hash&amp;ref_src=twsrc%5Etfw">#dscwow</a> <a href="https://twitter.com/hashtag/gdgnd?src=hash&amp;ref_src=twsrc%5Etfw">#gdgnd</a> <a href="https://t.co/5kXxhFtQc6">pic.twitter.com/5kXxhFtQc6</a></p>&mdash; Pulkit Singh #CloudCommunityDaysIndia (@PulkitS25464056) <a href="https://twitter.com/PulkitS25464056/status/1358093199068258309?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote></td>
+  </tr>
+  <tr>
+    <th></th>
+    <th><h4><b><a target="_blank" href="https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=pulkits25464056">& more.....</a></b></h4></th>
+  </tr>
+</table>
+
+<h4 align="center">Testimonials</h4>
+<h1 align="center">❝</h1>
+
+<table align="center">
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://youtu.be/vQsg6OdZlvo">Argus Academy</a></td>
+    <td>🙏🙏You are just 👍👍amazing .. 😍😍 very nice video</td>
+  </tr>
+</table>
+
+<h1 align="center">❞</h1>
