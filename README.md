@@ -1,5 +1,5 @@
 ![Pulkit Singh](https://pbs.twimg.com/profile_banners/1317399781220646912/1612232268/1500x500)
-<p align="center">I believe Open Source & Community is the best way to get started with dev, yes! Join me on my <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A?sub_confirmation=1">YouTube channel</a> & <a href="https://www.pugroups.in">community</a> so that we can Collaborate, code, interact & discuss live 🎥</p>
+<p align="center">I believe Open Source & Community is the best way to get started with tech, yes! Join me on my <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A?sub_confirmation=1">YouTube channel</a> & <a href="https://www.pugroups.in">community</a> so that we can Collaborate, code, interact & discuss live 🎥</p>
 <p align="center">
   <a href="https://github.com/pulkit0076?tab=followers">
     <img src="https://img.shields.io/github/followers/pulkit0076?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
