@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/twitter/follow/pulkits25464056?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/0sMg7zI4aX0?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Youtube-subscribe-red?style=for-the-badge&logo=youtube" />
   </a>
 <p align="center">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=pulkit0076&show_icons=true&theme=tokyonight" />
