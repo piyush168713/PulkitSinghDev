@@ -13,18 +13,28 @@
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pulkit0076/Pulkit0076/blob/main/code.gif">
 </a>
-- 🔭 I’m currently working on a twitter bot
-- 🌱 I’m currently learning Python OOPs
-- 👯 I’m looking for collaborations for my tech community ( <a href="https://www.pugroups.in">Programmers Universal Group</a> )
-- 🤔 I’m looking for help with OOPs
-- 💬 Ask me about Programming Concepts, how to work with Google products?, how to get started with Open source and communities, and frontend development
-- 📫 How to reach me: <a href="https://twitter.com/pulkits25464056" >Twitter @PulkitS25464056</a>
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I listen songs while programming
-- check out my professional portfolio here:
-  - https://bit.ly/pulkit-singh
-<br>
-<br>
+
+
+ - 🔭 I’m currently working on a twitter bot
+ - 🌱 I’m currently learning Python OOPs
+ - 👯 I’m looking for collaborations for my tech community ( <a href="https://www.pugroups.in">Programmers Universal Group</a> )
+ - 🤔 I’m looking for help with OOPs
+ - 💬 Ask me about Programming Concepts, how to work with Google products?, how to get started with Open source and communities, and frontend development
+ - 📫 How to reach me: <a href="https://twitter.com/pulkits25464056" >Twitter @PulkitS25464056</a>
+ - 😄 Pronouns: he/his/him
+ - ⚡ Fun fact: I listen songs while programming
+ - check out my professional portfolio here:
+   - https://bit.ly/pulkit-singh
+<br/>
+<br/>
+
+<p align="center">
+  <code>
+<!--     <img src="https://gitwar-jayant.herokuapp.com/badge?username=JayantGoel001&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score"> -->
+    <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fpulkit0076" alt="Github Profile Score">
+  </code>
+</p>
+
 <p align="center">I believe Open Source & Community is the best way to get started with tech, yes! Join me on my <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A?sub_confirmation=1">YouTube channel</a> & <a href="https://www.pugroups.in">community</a> so that we can Collaborate, code, interact & discuss live 🎥</p>
 <p align="center">
   <a href="https://github.com/pulkit0076?tab=followers">
