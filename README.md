@@ -1,4 +1,30 @@
 ![Pulkit Singh](https://pbs.twimg.com/profile_banners/1317399781220646912/1612232268/1500x500)
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  𝐇i, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Hi.gif" width="40px" />
+  </a>
+</h1>
+<br/>
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Pulkit0076/Pulkit0076/blob/main/code.gif">
+</a>
+- 🔭 I’m currently working on a twitter bot
+- 🌱 I’m currently learning Python OOPs
+- 👯 I’m looking for collaborations for my tech community ( <a href="https://www.pugroups.in">Programmers Universal Group</a> )
+- 🤔 I’m looking for help with OOPs
+- 💬 Ask me about Programming Concepts, how to work with Google products?, how to get started with Open source and communities, and frontend development
+- 📫 How to reach me: <a href="https://twitter.com/pulkits25464056" >Twitter @PulkitS25464056</a>
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: I listen songs while programming
+- check out my professional portfolio here:
+  - https://bit.ly/pulkit-singh
+<br>
+<br>
 <p align="center">I believe Open Source & Community is the best way to get started with tech, yes! Join me on my <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A?sub_confirmation=1">YouTube channel</a> & <a href="https://www.pugroups.in">community</a> so that we can Collaborate, code, interact & discuss live 🎥</p>
 <p align="center">
   <a href="https://github.com/pulkit0076?tab=followers">
@@ -19,18 +45,6 @@
 </p>
 <h1 align="center">-:About Me:-</h1>
 <h4 align="center">Hi there, I am a 12 years old boy who is a self taught programmer and has done many things in tech area. I am a founder, Organiser and a Speaker at Programmers Universal Group ( official website:- https://www.pugroups.in ). I am an official volunteer at Google Developer Group Chandigarh, Progate and Tensorflow User group Chandigarh. I am professionally a programmer, front end Web developer and an Artist. I am also a Youtuber where I share my knowledge with everyone. I am also an open source contributor and Google Crowdsource Top contributor. I am also an event ambassador at deeplearning.ai, I have also done many contributions in various communities. I was also selected as a share captain at Google Educator Group Ahemdabad and Pune. I was also in the list of top 10 Campus Ambassador at Developer Student Clubs Week of Wonders ( a week long national event ).</h4><br>
-<h3>-:Info:-</h3>
-
-- 🔭 I’m currently working on a twitter bot
-- 🌱 I’m currently learning Python OOPs
-- 👯 I’m looking for collaborations for my tech community ( <a href="https://www.pugroups.in">Programmers Universal Group</a> )
-- 🤔 I’m looking for help with OOPs
-- 💬 Ask me about Programming Concepts, how to work with Google products?, how to get started with Open source and communities, and frontend development
-- 📫 How to reach me: <a href="https://twitter.com/pulkits25464056" >Twitter @PulkitS25464056</a>
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I listen songs while programming
-- check out my professional portfolio here:
-  - https://bit.ly/pulkit-singh
 
 
 <h1 align="center"><a target="_blank" href="https://twitter.com/PulkitS25464056/status/1358093199068258309">-:Tweets:-</a></h1>
