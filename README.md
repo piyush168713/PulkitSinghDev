@@ -34,7 +34,44 @@
     <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fpulkit0076" alt="Github Profile Score">
   </code>
 </p>
+#
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pulkit0076&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pulkit0076)
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/pulkit0076/pulkit0076/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit0076&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/pulkit0076/pulkit0076/blob/main/right.png">
+  </a>
+</p>
+
+ #
+
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/pulkit0076/pulkit0076/blob/main/github.gif"></a>
+<br/>
+
+**LANGUAGES AND TOOLS:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
+<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://o.remove.bg/downloads/81fd0610-b6b0-413b-99a3-da3a537e0799/Tailwind-CSS-removebg-preview.png"></code>
+
+#
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
+<code><img height="40" width="40" src="https://github.com/Pulkit0076/Pulkit0076/blob/main/google-cloud.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://www.flaticon.com/premium-icon/icons/svg/720/720269.svg"></code>
+<code><img height="40" width="40" src="https://o.remove.bg/downloads/6c0800b5-8bb1-4e37-a87a-0147dca38a54/g-suite-removebg-preview.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<br/>
 <p align="center">I believe Open Source & Community is the best way to get started with tech, yes! Join me on my <a href="https://www.youtube.com/channel/UCWvqpm9sTcjgXLkp5Ylro-A?sub_confirmation=1">YouTube channel</a> & <a href="https://www.pugroups.in">community</a> so that we can Collaborate, code, interact & discuss live 🎥</p>
 <p align="center">
   <a href="https://github.com/pulkit0076?tab=followers">
