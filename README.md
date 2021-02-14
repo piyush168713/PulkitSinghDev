@@ -3,7 +3,7 @@
   <a target="_blank">
     <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇i, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  print("𝐇ey, there") !
   <a target="_blank">
     <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Hi.gif" width="40px" />
   </a>
@@ -178,3 +178,38 @@
 </table>
 
 <h1 align="center">❞</h1>
+
+
+<h1>
+  Connect With Me <a target="_blank">
+  <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Handshake.gif" height="32px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/pulkit-singh-082879200/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/pulkit0076/pulkit0076/blob/main/linkedin.svg"/></code>
+  </a>
+  <a href="https://twitter.com/PulkitS25464056" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/pulkit0076/pulkit0076/blob/main/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/pulkit0076">
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pulkit Singh's DEV Profile" height="62" width="62"></code>
+  </a>
+    <a href="https://github.com/pulkit0076">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  </a>
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories & following me!
+
+</div>
+
+#
+
+![](https://github.com/pulkit0076/pulkit0076/blob/main/footer.png)
+
+<h1 align="center"><img src="https://gpvc.arturio.dev/pulkit0076" alt="profile views"></h1>
