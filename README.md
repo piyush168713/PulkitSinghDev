@@ -3,7 +3,7 @@
   <a target="_blank">
     <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  print("𝐇ey, there") !
+  print("Hey, there") !
   <a target="_blank">
     <img src="https://github.com/pulkit0076/pulkit0076/blob/main/Hi.gif" width="40px" />
   </a>
