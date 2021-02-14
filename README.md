@@ -198,7 +198,7 @@
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Pulkit Singh's DEV Profile" height="62" width="62"></code>
   </a>
     <a href="https://github.com/pulkit0076">
-    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+    <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
   </a>
 </p>
 
