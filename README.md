@@ -42,7 +42,7 @@
 <p align="center">
   <a>
     <img height="150" width="175" src="https://github.com/pulkit0076/pulkit0076/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit0076&theme=dark&hide_border=true"/>
+    <img align="center" src=""/>
     <img height="150" width="175" src="https://github.com/pulkit0076/pulkit0076/blob/main/right.png">
   </a>
 </p>
