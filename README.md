@@ -210,6 +210,7 @@
 
 #
 
+![](https://github.com/Pulkit0076/Pulkit0076/blob/main/octocat-removebg-preview.png)
 ![](https://github.com/pulkit0076/pulkit0076/blob/main/footer.png)
 
 <h1 align="center"><img src="https://gpvc.arturio.dev/pulkit0076" alt="profile views"></h1>
