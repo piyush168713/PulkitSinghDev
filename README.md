@@ -40,9 +40,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pulkit0076&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pulkit0076)
 
 <p align="center">
-  <a>
+  <a href="https://github.com/pulkit0076">
     <img height="150" width="175" src="https://github.com/pulkit0076/pulkit0076/blob/main/left.png">
-    <img align="center" src=""/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkit0076&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/pulkit0076/pulkit0076/blob/main/right.png">
   </a>
 </p>
