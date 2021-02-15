@@ -27,7 +27,15 @@
    - https://bit.ly/pulkit-singh
 <br/>
 <br/>
-
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
+  </a>
+  My Octocat
+  <a target="_blank">
+    <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
+  </a>
+</h1>
 <p align="center">
   <img src="https://github.com/Pulkit0076/Pulkit0076/blob/main/octocat-removebg-preview.png">
   <br/>
