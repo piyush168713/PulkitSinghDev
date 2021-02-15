@@ -30,6 +30,7 @@
 
 <p align="center">
   <img src="https://github.com/Pulkit0076/Pulkit0076/blob/main/octocat-removebg-preview.png">
+  <br/>
     <code>
       <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar-jayant.herokuapp.com%2Fapi%2Fpulkit0076" alt="Github Profile Score">
     </code>
