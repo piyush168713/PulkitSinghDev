@@ -20,7 +20,7 @@
  - 👯 I’m looking for collaborations for my tech community ( <a href="https://www.pugroups.in">Programmers Universal Group</a> )
  - 🤔 I’m looking for help with OOPs
  - 💬 Ask me about Programming Concepts, how to work with Google products?, how to get started with Open source and communities, and frontend development
- - 📫 How to reach me: <a href="https://twitter.com/pulkit_0076" >Twitter @Pulkits25464056</a>
+ - 📫 How to reach me: <a href="https://twitter.com/Pulkits25464056" >Twitter @Pulkits25464056</a>
  - 😄 Pronouns: he/his/him
  - ⚡ Fun fact: I listen songs while programming
  - check out my professional portfolio here:
