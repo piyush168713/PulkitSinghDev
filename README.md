@@ -115,6 +115,9 @@
     <a href="https://www.pugroups.in">
     <img src="https://img.shields.io/badge/Join-Community-blue?style=for-the-badge&logo=drive.google.com/file/d/12mlsmrRRYFsCl9LkXIYH3kFKYV6EgbxV/view?usp=sharing" />
   </a>
+  <a href="https://discord.gg/Q7BTD58JKr" >
+    <img src="https://img.shields.io/discord/812902492442198047?color=blue&label=Discord&style=for-the-badge">
+  </a>
   
 <h1 align="center">-:About Me:-</h1>
 <h4 align="center">Hi there, I am a 12 years old boy who is a self taught programmer and has done many things in tech area. I am a founder, Organiser and a Speaker at Programmers Universal Group ( official website:- https://www.pugroups.in ). I am an official volunteer at Google Developer Group Chandigarh, Progate and Tensorflow User group Chandigarh. I am professionally a programmer, front end Web developer and an Artist. I am also a Youtuber where I share my knowledge with everyone. I am also an open source contributor and Google Crowdsource Top contributor. I am also an event ambassador at deeplearning.ai, I have also done many contributions in various communities. I was also selected as a share captain at Google Educator Group Ahemdabad and Pune. I was also in the list of top 10 Campus Ambassador at Developer Student Clubs Week of Wonders ( a week long national event ).</h4><br>
