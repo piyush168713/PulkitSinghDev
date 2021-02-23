@@ -193,5 +193,3 @@
 #
 
 ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
-
-<h1 align="center"><img src="https://gpvc.arturio.dev/PulkitSinghDev" alt="profile views"></h1>
