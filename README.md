@@ -91,7 +91,7 @@
 <br>
   
 <p align="center">
-<a href="https://github.com/pulkit0076">
+<a href="https://github.com/PulkitSinghDev">
   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=PulkitSinghDev&show_icons=true&theme=tokyonight" />
   <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitSinghDev&count_private=true&theme=tokyonight" />
 </a>
@@ -181,6 +181,11 @@
   </a>
     <a href="https://github.com/PulkitSinghDev">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
+  </a>
+  <a href="https://discord.gg/Q7BTD58JKr">
+    <code>
+      <img height="60" width="60" src="https://Discord-Logo-Black.png">
+    </code>
   </a>
 </p>
 
