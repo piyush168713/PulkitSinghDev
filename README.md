@@ -184,7 +184,7 @@
   </a>
   <a href="https://discord.gg/Q7BTD58JKr">
     <code>
-      <img height="60" width="60" src="https://Discord-Logo-Black.png">
+      <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
     </code>
   </a>
 </p>
