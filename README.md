@@ -170,9 +170,6 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/pulkit-singh-082879200/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/pulkit0076/pulkit0076/blob/main/linkedin.svg"/></code>
-  </a>
   <a href="https://twitter.com/PulkitSinghDev" target="_blank">
     <code><img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/twitter.svg"/></code>
   </a>
