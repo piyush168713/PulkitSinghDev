@@ -39,8 +39,8 @@
 <p align="center">
   <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/octocat-removebg-preview.png">
   <br/>
-    <code>
-      <img src="https://gitwar-jayant.herokuapp.com/badge?username=PulkitSinghDev&label=Gitwar%20Profile%20Score&style=for-the-badge&color=ee6f57" alt="Github Profile Score">
+    <code align="center">
+      <h1 align="center">:Github Profile Stats:</h1>
     </code>
 </p>
 <h1></h1>
