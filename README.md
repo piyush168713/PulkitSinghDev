@@ -36,14 +36,13 @@
     <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
   </a>
 </h1>
-<p align="center">
+<h1 align="center">
   <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/octocat-removebg-preview.png">
   <br/>
     <code align="center">
-      <h1 align="center">:Github Profile Stats:</h1>
+      :Github Profile Stats:
     </code>
-</p>
-<h1></h1>
+</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PulkitSinghDev&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pulkit0076)
 
