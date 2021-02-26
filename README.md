@@ -36,9 +36,8 @@
     <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
   </a>
 </h1>
-<h1></h1>
+<h1><img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/octocat-removebg-preview.png"></h1>
 <h1 align="center">
-  <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/octocat-removebg-preview.png">
   <br/>
     <code align="center">
       :Github Profile Stats:
