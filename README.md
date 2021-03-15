@@ -178,7 +178,7 @@
     <a href="https://github.com/PulkitSinghDev">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
   </a>
-  <a href="https://discord.gg/Q7BTD58JKr">
+  <a href="https://discord.gg/AaFBHGreKZ">
     <code>
       <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
     </code>
