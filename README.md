@@ -114,7 +114,7 @@
     <a href="https://www.pugroups.in">
     <img src="https://img.shields.io/badge/Join-Community-blue?style=for-the-badge&logo=drive.google.com/file/d/12mlsmrRRYFsCl9LkXIYH3kFKYV6EgbxV/view?usp=sharing" />
   </a>
-  <a href="https://discord.gg/Q7BTD58JKr" >
+  <a href="https://discord.gg/XQbq8KaqVw" >
     <img src="https://img.shields.io/discord/812902492442198047?color=blue&label=Discord&style=for-the-badge">
   </a>
   
@@ -178,7 +178,7 @@
     <a href="https://github.com/PulkitSinghDev">
     <code><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"></code>  
   </a>
-  <a href="https://discord.gg/AaFBHGreKZ">
+  <a href="https://discord.gg/XQbq8KaqVw">
     <code>
       <img height="60" width="60" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Discord-Logo-Black.png">
     </code>
