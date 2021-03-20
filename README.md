@@ -48,9 +48,9 @@
 
 <p align="center">
   <a href="https://github.com/PulkitSinghDev">
-    <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitSinghDev&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
+    <img width="25%" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitSinghDev&theme=dark&hide_border=true"/>
+    <img width="25%" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
   </a>
 </p>
 <h1></h1>
