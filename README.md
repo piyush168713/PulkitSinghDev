@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://github.com/PulkitSinghDev">
     <img width="25%" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
-    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitSinghDev&theme=dark&hide_border=true"/>
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitSinghDev&theme=dark&hide_border=true"/>
     <img width="25%" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
   </a>
 </p>
