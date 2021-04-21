@@ -127,9 +127,12 @@
   <a href="https://www.patreon.com/pulkitsinghdev"><img alt="Become a Patreon" src="https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67"></a>
   
 <h1 align="center">-:About Me:-</h1>
-<h4 align="center">A 13 years old self taught programmer who is a Passionate contributor towards communities, Open Source & Hackathons, Who is Pursuing Knowledge to excel in future endeavor and helping people to enhance there learnings through providing them with practical experience and Knowledge.</h4><br>
+<h4 align="center">A 13 years old self taught programmer who is a Passionate contributor towards <b>communities</b>, <b>Open Source</b> & <b>Hackathons</b>, Who is Pursuing Knowledge to excel in future endeavor and helping people to enhance there learnings through providing them with practical experience and Knowledge.</h4><br>
 
-
+<details close="">
+<summary>
+  <h2 align="center">Testimonials😍</h2>
+</summary>
 <table align="center">
   <tr>
     <th>Author</th>
@@ -167,6 +170,8 @@
 </table>
 
 <h1 align="center">❞</h1>
+
+</details>
 
 
 <h1>
