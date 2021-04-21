@@ -26,22 +26,28 @@
  - check out my professional portfolio here:
    - https://PulkitSinghDev.github.io
 <br/>
-<br/>
-<h1 align="center">
-  <a target="_blank">
+
+<details close="">
+<summary>
+  <h1 align="center"><a target="_blank">
     <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
   </a>
   My Octocat
   <a target="_blank">
     <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
-  </a>
-</h1>
+  </a></h1>
+</summary>
+
+
 <h1 align="center"><img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/octocat-removebg-preview.png"></h1>
 <h1 align="center">
-  <br/>
-    <code align="center">
+</details>
+<br>
+
+<h1 align="center">
+<code align="center">
       :Github Profile Stats:
-    </code>
+</code>
 </h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PulkitSinghDev&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pulkit0076)
@@ -82,7 +88,7 @@
 <br/>
 
 #
-<details open="">
+<details close="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
   <strong>Github Stats : </strong>
@@ -121,7 +127,7 @@
   <a href="https://www.patreon.com/pulkitsinghdev"><img alt="Become a Patreon" src="https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67"></a>
   
 <h1 align="center">-:About Me:-</h1>
-<h4 align="center">Hi there, I am a 13 years old boy who is a self taught programmer and has done many things in tech area. I am a founder, Organiser and a Speaker at Programmers Universal Group ( official website:- https://www.pugroups.in ). I am an official volunteer at Google Developer Group Chandigarh, Progate and Tensorflow User group Chandigarh. I am professionally a programmer, front end Web developer and an Artist. I am also a Youtuber where I share my knowledge with everyone. I am also an open source contributor and Google Crowdsource Top contributor. I am also an event ambassador at deeplearning.ai, I have also done many contributions in various communities. I was also selected as a share captain at Google Educator Group Ahemdabad and Pune. I was also in the list of top 10 Campus Ambassador at Developer Student Clubs Week of Wonders ( a week long national event ).</h4><br>
+<h4 align="center">A 13 years old self taught programmer who is a Passionate contributor towards communities, Open Source & Hackathons, Who is Pursuing Knowledge to excel in future endeavor and helping people to enhance there learnings through providing them with practical experience and Knowledge.</h4><br>
 
 
 <table align="center">
