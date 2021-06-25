@@ -15,7 +15,7 @@
 </a>
 
 
- - 🔭 I’m currently working on a twitter bot
+ - 🔭 I’m currently working on a VBG
  - 🌱 I’m currently learning Python OOPs
  - 👯 I’m looking for collaborations for my tech community ( <a href="https://www.pugroups.in">Programmers Universal Group</a> )
  - 🤔 I’m looking for help with OOPs
