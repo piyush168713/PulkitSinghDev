@@ -1,4 +1,4 @@
-![Pulkit Singh](https://pbs.twimg.com/profile_banners/1363801851326386178/1618408091/1500x500)
+![Pulkit Singh](https://pbs.twimg.com/profile_banners/1363801851326386178/1627893043/1500x500)
 <h1 align="center">
   <a target="_blank">
     <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Earth.gif" width="24px" style="max-width:100%;">
